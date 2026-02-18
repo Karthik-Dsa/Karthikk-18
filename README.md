@@ -23,6 +23,17 @@
 ![](https://github-profile-trophy.vercel.app/?username=Karthikk-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 🤝 Connect & Contribute
+
+💬 Feel free to reach out if you're interested in:
+- 🔧 Collaborating on backend projects or APIs
+- ☁️ Discussing cloud & DevOps practices
+- 💡 Sharing knowledge about system design & architecture
+- 🐛 Open source contributions
+
+📫 Open to discussions, collaborations, and learning opportunities!
+
+---
 [![](https://visitcount.itsvg.in/api?id=Karthikk-18&icon=0&color=8)](https://visitcount.itsvg.in)
 
 [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikk-18)](https://github.com/anuraghazra/github-readme-stats)
