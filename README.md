@@ -24,7 +24,7 @@
 
 ---
 ## 📈 GitHub Contribution Graph
-[![Karthik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Karthikk-18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Graph showing Karthik's GitHub contribution activity over the past year](https://github-readme-activity-graph.vercel.app/graph?username=Karthikk-18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Karthikk-18&icon=0&color=8)](https://visitcount.itsvg.in)
