@@ -23,6 +23,10 @@
 ![](https://github-profile-trophy.vercel.app/?username=Karthikk-18&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+## 📈 GitHub Contribution Graph
+[![Graph showing Karthik's GitHub contribution activity over the past year](https://github-readme-activity-graph.vercel.app/graph?username=Karthikk-18&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
 [![](https://visitcount.itsvg.in/api?id=Karthikk-18&icon=0&color=8)](https://visitcount.itsvg.in)
 
 [![Karthik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Karthikk-18)](https://github.com/anuraghazra/github-readme-stats)
